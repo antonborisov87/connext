@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Connext',
   tagline: 'Артыкулы пра Connext па-беларуску',
-  url: 'https://antonborisov87.github.io/connext',
-  baseUrl: '/',
+  url: 'https://antonborisov87.github.io',
+  baseUrl: '/connext/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/connextIcon.png',
