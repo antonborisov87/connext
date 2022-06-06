@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title='Connext па-беларуску'
+      description="Чытаць артыкулы пра Connext па-беларуску">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
