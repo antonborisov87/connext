@@ -92,6 +92,10 @@ const config = {
                 label: 'Афіцыйны сайт',
                 href: 'https://www.connext.network/about',
               },
+              {
+                label: 'Wiki',
+                href: 'https://wiki.connext.academy',
+              },
             ],
           },
           {
